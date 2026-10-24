@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.9.0](https://github.com/trycua/cua/compare/cua-sdk-v0.8.0...cua-sdk-v0.9.0) (2026-10-24)
+
+
+### Features
+
+* **cua-home:** CuaChannel, the names that keep Cua Spaces Local apart from stable (CUA-1776) ([#5800](https://github.com/trycua/cua/issues/5800)) ([e896967](https://github.com/trycua/cua/commit/e896967501382d6dc26ef6d96282c0f8af882648))
+
+
+### Bug Fixes
+
+* **cua:** guest volume paths are POSIX on every host; Windows test fixes ([#5860](https://github.com/trycua/cua/issues/5860)) ([7ce3324](https://github.com/trycua/cua/commit/7ce332441a1b07e797b6cc7c02fefecc938a9ea7))
+* **spaces-app:** host setup follows CUA_ENV for the relay (CUA-1610) ([#5241](https://github.com/trycua/cua/issues/5241)) ([601963f](https://github.com/trycua/cua/commit/601963fc09589ca415b2eba56e194e173b44a0dd))
+
 ## [0.8.0](https://github.com/trycua/cua/compare/cua-sdk-v0.7.0...cua-sdk-v0.8.0) (2026-10-24)
 
 
