@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.9.0](https://github.com/trycua/cua/compare/cua-spacesd-v0.8.0...cua-spacesd-v0.9.0) (2026-10-24)
+
+
+### Features
+
+* **cua-home:** CuaChannel, the names that keep Cua Spaces Local apart from stable (CUA-1776) ([#5800](https://github.com/trycua/cua/issues/5800)) ([e896967](https://github.com/trycua/cua/commit/e896967501382d6dc26ef6d96282c0f8af882648))
+
 ## [0.8.0](https://github.com/trycua/cua/compare/cua-spacesd-v0.7.0...cua-spacesd-v0.8.0) (2026-10-24)
 
 
